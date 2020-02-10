@@ -1,6 +1,6 @@
 # Springboard_capstone-project-2
 Beer Recommendation System
- ![Flow chart showing the basic steps of genomic selection (GS)](https://github.com/wzxsoy/Springboard_capstone-project-2/blob/master/CP2%20milestone%201%20for%20github/N554POZ7JZE3PDHHFSCFKEAKRA.jpg)
+     ![Flow chart showing the basic steps of genomic selection (GS)](https://github.com/wzxsoy/Springboard_capstone-project-2/blob/master/CP2%20milestone%201%20for%20github/N554POZ7JZE3PDHHFSCFKEAKRA.jpg)
 1.	The problem I want to solve
 It’s common to see someone staring at a wall of beers at local supermarket, contemplating for over 10 minutes before grabbing one. They are not alone. As a beer enthusiast, I’m always looking for something new to try but I also dread being disappointed so I often spend too much time looking up a particular beer over several websites to find some kind of reassurance that I’m making a good choice. So it’s necessary to build a recommendation system to leverage users historical ratings to create predictions for un-tasted beers and create a personalized recommendation for which beer to sample next.
 2.	Potential client and why do they care about this problem
